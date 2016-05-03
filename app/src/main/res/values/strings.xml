@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Floor Tiling Estimator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtWidth">Width</string>
+    <string name="txtHeight">Height</string>
+    <string name="prompt">Select Tile Size</string>
+    <string name="txtExtraTiles">Extra Tiles</string>
+    <string name="btnTileAmt">Calculate Tile Amount</string>
+    <string-array name="txtTileSize">
+        <item>12" x 12"</item>
+        <item>18" x 18"</item>
+    </string-array>
+</resources>
